@@ -3,9 +3,6 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/MahmoudFettal/simple-project/blob/master/LICENSE">
-      <img alt="GitHub Licence" src="https://img.shields.io/github/license/MahmoudFettal/simple-project"/>
-   </a> 
    <a href="https://github.com/MahmoudFettal/simple-project/issues">
       <img alt="GitHub issues" src="https://img.shields.io/github/issues/MahmoudFettal/simple-project?style=flat&label=Issues"/>
    </a> 
