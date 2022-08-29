@@ -47,7 +47,7 @@ You can use the app using the link: [simple-project.smauj.me](https://simple-pro
 # How to support the project:
 **:thumbsup: Your support means a lot. Thank you for stars that keeps me motivated to share new ideas and do them fast.**
 
-You can support also the project by [buy me a coffe](https://www.buymeacoffee.com/mahmoudfettal) that would help with the costs of the hosting and keep me motivated to add new features in the future. 
+You can support also the project by [buy me a coffe](https://www.buymeacoffee.com/mahmoudfettal), that would help with the costs of hosting and keep me motivated to add new features in the future. 
 
 # Lisence:
 You can clone the repos easily but you will have to create your own APIs in order for the app to work.
