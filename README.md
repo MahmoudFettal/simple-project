@@ -3,17 +3,17 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/MahmoudFettal/Plants-Watch/blob/master/LICENSE">
-      <img alt="GitHub Licence" src="https://img.shields.io/github/license/MahmoudFettal/simple-project?style=flat&label=License"/>
+   <a href="https://github.com/MahmoudFettal/simple-project/blob/master/LICENSE">
+      <img alt="GitHub Licence" src="https://img.shields.io/github/license/MahmoudFettal/simple-project"/>
    </a> 
-   <a href="https://github.com/MahmoudFettal/Plants-Watch/issues">
+   <a href="https://github.com/MahmoudFettal/simple-project/issues">
       <img alt="GitHub issues" src="https://img.shields.io/github/issues/MahmoudFettal/simple-project?style=flat&label=Issues"/>
    </a> 
-   <a href="https://github.com/MahmoudFettal/Plants-Watch/network/members">
-      <img alt="GitHub forks" src="https://img.shields.io/github/forks/MahmoudFettal/simple-project?style=flat&logo=github&label=Forks"/>
+   <a href="https://github.com/MahmoudFettal/simple-projecth/network/members">
+      <img alt="GitHub forks" src="https://img.shields.io/github/forks/MahmoudFettal/simple-project"/>
    </a> 
-   <a href="https://github.com/MahmoudFettal/Weekly-Data-Projects/stargazers">
-      <img alt="GitHub stars" src="https://img.shields.io/github/stars/MahmoudFettal/simple-project?style=flat&logo=github&label=Stars"/>
+   <a href="https://github.com/MahmoudFettal/simple-project/stargazers">
+      <img alt="GitHub stars" src="https://img.shields.io/github/stars/MahmoudFettal/simple-project"/>
    </a>
 <p>
 
