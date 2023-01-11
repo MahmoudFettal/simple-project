@@ -22,7 +22,7 @@
 </p>
 
 # What is SimpleProject
-SimpleProject is a web app that allows users to create projects and manage them in a kanban board.
+SimpleProject is a web app that allows users to create and manage  projects them in a kanban board.
 
 SimpleProject was built with react and tailwind for the frontend, Django rest framework for the backend and hosted on Microsoft Azure, the app implements HTML5 drag and drop API to ensure the functionality of drag and dropping tasks into the right column, all in a minimalist design that is easy to use.
 
